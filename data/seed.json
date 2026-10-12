@@ -1,0 +1,2605 @@
+{
+ "countries": [
+  {
+   "id": "uk",
+   "name": "イギリス",
+   "nameEn": "United Kingdom",
+   "code": "GB",
+   "region": "europe",
+   "lat": 52.5,
+   "lng": -1.5,
+   "color": "#2f5d8a",
+   "wikiJa": "イギリス",
+   "capital": "ロンドン",
+   "language": "英語",
+   "currency": "ポンド",
+   "phrase": {
+    "local": "Cheers!",
+    "ja": "ありがとう／乾杯（カジュアル）"
+   },
+   "desc": "ロンドンの街並みや、先史時代の遺跡ストーンヘンジがある国。英語が公用語なので、現地の英語にそのまま触れられます。",
+   "trips": [
+    {
+     "id": "bigben",
+     "name": "ビッグ・ベン",
+     "nameEn": "Big Ben",
+     "wiki": "Big_Ben",
+     "category": "sight",
+     "city": "ロンドン",
+     "tip": "定番の撮影スポットはテムズ川の対岸やウェストミンスター橋の上。毎正時には鐘の音が聞こえます。",
+     "desc": "ロンドンのシンボル。国会議事堂の時計塔と大鐘。",
+     "level": "A2",
+     "minutes": 4,
+     "article": {
+      "title": "Big Ben: The Voice of London",
+      "paragraphs": [
+       "Big Ben is the nickname for the great bell inside the clock tower at the Palace of Westminster in London. Many people use the name for the whole tower, but its official name is the Elizabeth Tower.",
+       "The tower was completed in 1859. Its clock is known for being very accurate, and the bell's deep sound can be heard across central London.",
+       "After a long repair project, the tower reopened in 2022 with its clock faces painted in their original blue and gold colors."
+      ]
+     },
+     "questions": [
+      {
+       "q": "What is \"Big Ben\" originally the name of?",
+       "choices": [
+        "The whole palace",
+        "The great bell",
+        "A famous king",
+        "A river in London"
+       ],
+       "answer": 1,
+       "hint": "第1段落の最初の文 “the nickname for …” に注目。",
+       "explain": "“Big Ben is the nickname for the great bell” とあり、もともとは大鐘の愛称です。"
+      },
+      {
+       "q": "What is the official name of the tower?",
+       "choices": [
+        "The London Tower",
+        "The Elizabeth Tower",
+        "The Victoria Tower",
+        "The Big Tower"
+       ],
+       "answer": 1,
+       "hint": "“official name” という語を探そう。",
+       "explain": "“its official name is the Elizabeth Tower” と書かれています。"
+      },
+      {
+       "q": "What happened in 2022?",
+       "choices": [
+        "The tower was built",
+        "The tower reopened after repairs",
+        "The bell was sold",
+        "The clock stopped forever"
+       ],
+       "answer": 1,
+       "hint": "最後の段落の “reopened” の意味は？",
+       "explain": "長い修復工事の後、2022年に再公開されました（reopened in 2022）。"
+      }
+     ],
+     "summary": {
+      "keywords": [
+       [
+        "bell",
+        "鐘"
+       ],
+       [
+        "Elizabeth",
+        "エリザベス"
+       ],
+       [
+        "London",
+        "ロンドン"
+       ],
+       [
+        "1859"
+       ],
+       [
+        "repair",
+        "修復",
+        "改修",
+        "修理"
+       ]
+      ],
+      "model": "Big Ben is the great bell in the Elizabeth Tower in London. The tower was completed in 1859 and reopened in 2022 after repairs."
+     }
+    },
+    {
+     "id": "stonehenge",
+     "name": "ストーンヘンジ",
+     "nameEn": "Stonehenge",
+     "wiki": "Stonehenge",
+     "category": "sight",
+     "city": "ソールズベリー近郊",
+     "tip": "ロンドンから日帰りツアーが多数出ている。平原は風が強いので上着があると安心。夏至の日の出の時期は特に人気。",
+     "desc": "約5000年前に造られた巨石遺跡。謎の多い世界遺産。",
+     "level": "B1",
+     "minutes": 5,
+     "article": {
+      "title": "The Mystery of Stonehenge",
+      "paragraphs": [
+       "Stonehenge is a circle of huge standing stones on Salisbury Plain in southern England. It was built in several stages, starting about 5,000 years ago.",
+       "Some of the smaller stones came from Wales, more than 200 kilometers away. Nobody knows exactly how people moved them without modern machines.",
+       "The stones line up with the sun on the longest and shortest days of the year. Because of this, many people think Stonehenge was used as a calendar or a place for ceremonies."
+      ]
+     },
+     "questions": [
+      {
+       "q": "When did people start building Stonehenge?",
+       "choices": [
+        "About 500 years ago",
+        "About 5,000 years ago",
+        "In 1859",
+        "About 50,000 years ago"
+       ],
+       "answer": 1,
+       "hint": "第1段落の “starting about …” を読もう。",
+       "explain": "“starting about 5,000 years ago” とあります。"
+      },
+      {
+       "q": "Where did some of the smaller stones come from?",
+       "choices": [
+        "France",
+        "Wales",
+        "Scotland",
+        "London"
+       ],
+       "answer": 1,
+       "hint": "“came from” の後ろに地名があります。",
+       "explain": "小さめの石の一部は200km以上離れたウェールズから運ばれました。"
+      },
+      {
+       "q": "Why do people think it was used as a calendar?",
+       "choices": [
+        "It has numbers on it",
+        "The stones line up with the sun",
+        "It was built in 365 days",
+        "There are 12 stones"
+       ],
+       "answer": 1,
+       "hint": "“Because of this” の “this” が指す内容は？",
+       "explain": "石が夏至・冬至の太陽の向きと一直線に並ぶため、暦や儀式に使われたと考えられています。"
+      }
+     ],
+     "summary": {
+      "keywords": [
+       [
+        "stone",
+        "石"
+       ],
+       [
+        "5,000",
+        "5000",
+        "5千"
+       ],
+       [
+        "sun",
+        "太陽"
+       ],
+       [
+        "calendar",
+        "暦",
+        "カレンダー"
+       ],
+       [
+        "ceremon",
+        "儀式"
+       ]
+      ],
+      "model": "Stonehenge is a circle of huge stones built about 5,000 years ago. The stones line up with the sun, so it may have been a calendar."
+     }
+    },
+    {
+     "id": "tea",
+     "name": "アフタヌーンティー",
+     "nameEn": "Afternoon Tea",
+     "wiki": "Afternoon_tea",
+     "category": "culture",
+     "city": "ロンドン",
+     "tip": "ホテルのアフタヌーンティーは人気なので予約がおすすめ。ドレスコードがある店もあるので事前に確認を。",
+     "desc": "3段スタンドで楽しむ、イギリスのお茶の習慣。",
+     "level": "A2",
+     "minutes": 4,
+     "article": {
+      "title": "Afternoon Tea: A Very British Habit",
+      "paragraphs": [
+       "Afternoon tea is a famous British tradition. It is said that in the 1840s, Anna, the Duchess of Bedford, often felt hungry between lunch and a late dinner, so she started having tea and snacks in the afternoon.",
+       "Today, afternoon tea is usually served on a stand with three levels. Small sandwiches are on the bottom, scones with cream and jam are in the middle, and cakes are on the top.",
+       "People still argue about one question: should you put cream or jam on your scone first?"
+      ]
+     },
+     "questions": [
+      {
+       "q": "Why did the Duchess start having afternoon tea?",
+       "choices": [
+        "She was hungry between lunch and dinner",
+        "She wanted to sell tea",
+        "She had no kitchen",
+        "The Queen ordered it"
+       ],
+       "answer": 0,
+       "hint": "“so she started …” の前に理由があります。",
+       "explain": "昼食と遅い夕食の間にお腹がすいたため、午後にお茶と軽食をとり始めました。"
+      },
+      {
+       "q": "What is in the middle of the stand?",
+       "choices": [
+        "Sandwiches",
+        "Scones with cream and jam",
+        "Cakes",
+        "Fruit"
+       ],
+       "answer": 1,
+       "hint": "“in the middle” を探そう。",
+       "explain": "真ん中の段はクリームとジャムを添えたスコーンです。"
+      },
+      {
+       "q": "What do people still argue about?",
+       "choices": [
+        "The price of tea",
+        "Whether to put cream or jam first",
+        "The best time for lunch",
+        "The color of the cups"
+       ],
+       "answer": 1,
+       "hint": "最後の段落の “argue about” の後ろ。",
+       "explain": "スコーンにクリームとジャムのどちらを先に塗るか、今も議論になります。"
+      }
+     ],
+     "summary": {
+      "keywords": [
+       [
+        "tradition",
+        "伝統",
+        "習慣"
+       ],
+       [
+        "Duchess",
+        "公爵夫人"
+       ],
+       [
+        "hungry",
+        "空腹",
+        "お腹"
+       ],
+       [
+        "scone",
+        "スコーン"
+       ],
+       [
+        "three",
+        "3段",
+        "三段"
+       ]
+      ],
+      "model": "Afternoon tea is a British tradition started by a duchess who felt hungry in the afternoon. It is served on a three-level stand with sandwiches, scones, and cakes."
+     }
+    }
+   ],
+   "news": {
+    "headline": "Bike Commuting Doubles in Central London",
+    "script": "Good evening. Cycling in central London has reached a record high. According to a new city report, the number of people riding bikes to work has doubled in the past five years. Officials say new bike lanes and lower traffic are the main reasons. Some drivers, however, complain that the roads have become too narrow. The city plans to add fifty more kilometers of bike lanes by next year.",
+    "summaryJa": "ロンドン中心部で自転車通勤が過去5年で倍増。新しい自転車レーンと交通量の減少が主な理由。一方で道が狭くなったと不満を持つドライバーも。市は来年までにレーンを50km増やす予定。",
+    "summaryEn": "Bike commuting in central London has doubled in five years thanks to new bike lanes and less traffic. The city will add 50 km more lanes next year.",
+    "questions": [
+     {
+      "q": "How much has bike commuting increased?",
+      "choices": [
+       "It has doubled",
+       "It has tripled",
+       "It has decreased",
+       "It stayed the same"
+      ],
+      "answer": 0,
+      "hint": "“has doubled” が聞こえたかな？",
+      "explain": "“has doubled in the past five years” = 過去5年で2倍になった。"
+     },
+     {
+      "q": "What do some drivers complain about?",
+      "choices": [
+       "Expensive gas",
+       "The roads became too narrow",
+       "Too many buses",
+       "Bad weather"
+      ],
+      "answer": 1,
+      "hint": "“complain that …” の後ろを聴こう。",
+      "explain": "“the roads have become too narrow” と不満を述べています。"
+     },
+     {
+      "q": "What does the city plan to do?",
+      "choices": [
+       "Close all roads",
+       "Add fifty more kilometers of bike lanes",
+       "Ban bikes",
+       "Build a new airport"
+      ],
+      "answer": 1,
+      "hint": "最後の文 “The city plans to …”",
+      "explain": "来年までに自転車レーンを50km追加する計画です。"
+     }
+    ]
+   },
+   "tour_order": 1
+  },
+  {
+   "id": "france",
+   "name": "フランス",
+   "nameEn": "France",
+   "code": "FR",
+   "region": "europe",
+   "lat": 46.6,
+   "lng": 2.4,
+   "color": "#3b5ba5",
+   "wikiJa": "フランス",
+   "capital": "パリ",
+   "language": "フランス語",
+   "currency": "ユーロ",
+   "phrase": {
+    "local": "Bonjour !",
+    "ja": "こんにちは"
+   },
+   "desc": "パリのエッフェル塔や、海に浮かぶ修道院モン・サン＝ミシェルがある国。カフェや食事も旅の楽しみのひとつです。",
+   "trips": [
+    {
+     "id": "eiffel",
+     "name": "エッフェル塔",
+     "nameEn": "Eiffel Tower",
+     "wiki": "Eiffel_Tower",
+     "category": "sight",
+     "city": "パリ",
+     "tip": "チケットは公式サイトで事前予約がおすすめ。夜は毎正時に数分間きらめくライトアップを見逃さずに。",
+     "img": "fr:Tour_Eiffel",
+     "desc": "1889年の万国博覧会のために建てられたパリの象徴。",
+     "level": "A2",
+     "minutes": 4,
+     "article": {
+      "title": "The Eiffel Tower: From \"Ugly\" to Icon",
+      "paragraphs": [
+       "The Eiffel Tower is the most famous symbol of Paris. It was built for the World's Fair in 1889 and designed by the company of engineer Gustave Eiffel. At first, many artists criticized the iron tower and called it ugly.",
+       "Today, about seven million people visit it every year. The tower is 330 meters tall, and visitors can take elevators or climb more than 600 steps to the second floor.",
+       "At night, the tower sparkles with thousands of lights for five minutes every hour."
+      ]
+     },
+     "questions": [
+      {
+       "q": "Why was the Eiffel Tower built?",
+       "choices": [
+        "For the World's Fair in 1889",
+        "As a home for Gustave Eiffel",
+        "To watch ships on the river",
+        "As a radio station for the army"
+       ],
+       "answer": 0,
+       "hint": "第1段落の “built for …” に注目。",
+       "explain": "“It was built for the World's Fair in 1889” とあります。"
+      },
+      {
+       "q": "How did many artists feel about the tower at first?",
+       "choices": [
+        "They loved it",
+        "They criticized it",
+        "They wanted to paint it",
+        "They did not know about it"
+       ],
+       "answer": 1,
+       "hint": "“At first” から始まる文を読もう。",
+       "explain": "当初、多くの芸術家が “ugly（醜い）” と批判しました。"
+      },
+      {
+       "q": "What happens at night?",
+       "choices": [
+        "The tower closes at 5 p.m.",
+        "The lights sparkle every hour",
+        "Visitors must use the stairs",
+        "The tower changes color every day"
+       ],
+       "answer": 1,
+       "hint": "最後の段落 “sparkles” の意味は？",
+       "explain": "夜は毎正時に5分間、数千の電球がきらめきます。"
+      }
+     ],
+     "summary": {
+      "keywords": [
+       [
+        "1889"
+       ],
+       [
+        "World's Fair",
+        "万博",
+        "万国博覧会"
+       ],
+       [
+        "Paris",
+        "パリ"
+       ],
+       [
+        "symbol",
+        "象徴",
+        "シンボル"
+       ],
+       [
+        "visit",
+        "訪れ",
+        "観光客",
+        "訪問"
+       ]
+      ],
+      "model": "The Eiffel Tower was built for the 1889 World's Fair. Once criticized, it is now the symbol of Paris and about seven million people visit it every year."
+     }
+    },
+    {
+     "id": "mont",
+     "name": "モン・サン＝ミシェル",
+     "nameEn": "Mont-Saint-Michel",
+     "wiki": "Mont-Saint-Michel",
+     "category": "sight",
+     "city": "ノルマンディー地方",
+     "tip": "パリからの日帰りツアーも多いが、島内や対岸に泊まると夕景と夜景をゆっくり楽しめる。名物はふわふわのオムレツ。",
+     "desc": "潮の満ち引きで姿を変える、海に浮かぶ修道院。",
+     "level": "B1",
+     "minutes": 5,
+     "article": {
+      "title": "Mont-Saint-Michel: An Island of Tides",
+      "paragraphs": [
+       "Mont-Saint-Michel is a small rocky island off the coast of Normandy in northern France. An abbey stands at the top, and a tiny village with narrow streets surrounds it.",
+       "The island is famous for its tides. When the tide is high, the sea surrounds the island, and when it is low, wide sands appear. In the past, pilgrims had to walk across the sand carefully.",
+       "Today, a bridge connects the island to the mainland, so visitors can reach it at any time."
+      ]
+     },
+     "questions": [
+      {
+       "q": "Where is Mont-Saint-Michel?",
+       "choices": [
+        "In southern France",
+        "Off the coast of Normandy",
+        "In the center of Paris",
+        "On a mountain in the Alps"
+       ],
+       "answer": 1,
+       "hint": "“off the coast of …” は「〜の沖に」。",
+       "explain": "フランス北部ノルマンディー地方の沖にある小さな岩の島です。"
+      },
+      {
+       "q": "What is the island famous for?",
+       "choices": [
+        "Its tides",
+        "Its snow",
+        "Its glass castles",
+        "Its large airport"
+       ],
+       "answer": 0,
+       "hint": "第2段落の最初の文。",
+       "explain": "“The island is famous for its tides.” 潮の満ち引きで有名です。"
+      },
+      {
+       "q": "How do visitors reach the island today?",
+       "choices": [
+        "By boat only",
+        "By a bridge",
+        "By helicopter only",
+        "They cannot visit"
+       ],
+       "answer": 1,
+       "hint": "“Today, …” で始まる文。",
+       "explain": "今は橋が本土と島をつないでいて、いつでも行けます。"
+      }
+     ],
+     "summary": {
+      "keywords": [
+       [
+        "island",
+        "島"
+       ],
+       [
+        "abbey",
+        "修道院"
+       ],
+       [
+        "tide",
+        "潮"
+       ],
+       [
+        "bridge",
+        "橋"
+       ],
+       [
+        "Normandy",
+        "ノルマンディー"
+       ]
+      ],
+      "model": "Mont-Saint-Michel is a rocky island with an abbey in Normandy. It is famous for its tides, and today a bridge connects it to the mainland."
+     }
+    },
+    {
+     "id": "cafe",
+     "name": "パリのカフェ文化",
+     "nameEn": "Café Culture",
+     "wiki": "Coffeehouse",
+     "category": "culture",
+     "city": "パリ",
+     "tip": "カウンターで立って飲むとテーブル席より安いことが多い。店員さんには「Bonjour」とあいさつしてから注文するのがマナー。",
+     "desc": "通りを眺めながら語らう、パリの日常の風景。",
+     "level": "B1",
+     "minutes": 5,
+     "article": {
+      "title": "More Than Coffee: Café Life in Paris",
+      "paragraphs": [
+       "In Paris, cafés are more than places to drink coffee. For hundreds of years, they have been places where people meet friends, read newspapers, and share ideas. Famous writers and artists once spent whole days at cafés such as the Café de Flore.",
+       "Many cafés have small tables on the sidewalk, called a terrace. People often sit side by side, facing the street, so they can watch people walk by.",
+       "If you order \"un café,\" you will get a small, strong espresso, not a large cup of coffee."
+      ]
+     },
+     "questions": [
+      {
+       "q": "What have cafés been for hundreds of years?",
+       "choices": [
+        "Only places to eat lunch",
+        "Places to meet, read, and share ideas",
+        "Schools for artists",
+        "Shops that sell newspapers"
+       ],
+       "answer": 1,
+       "hint": "第1段落の2文目。",
+       "explain": "友人と会い、新聞を読み、考えを語り合う場所でした。"
+      },
+      {
+       "q": "Why do people sit facing the street?",
+       "choices": [
+        "To see the menu",
+        "To watch people walk by",
+        "Because the chairs are fixed",
+        "To avoid the sun"
+       ],
+       "answer": 1,
+       "hint": "“so they can …” は「〜できるように」。",
+       "explain": "通りを行き交う人を眺めるためです。"
+      },
+      {
+       "q": "What do you get if you order \"un café\"?",
+       "choices": [
+        "A large cup of coffee with milk",
+        "A small, strong espresso",
+        "A cup of tea",
+        "Hot chocolate"
+       ],
+       "answer": 1,
+       "hint": "最後の文を読もう。",
+       "explain": "“un café” を頼むと、小さくて濃いエスプレッソが出てきます。"
+      }
+     ],
+     "summary": {
+      "keywords": [
+       [
+        "café",
+        "cafe",
+        "カフェ"
+       ],
+       [
+        "meet",
+        "会",
+        "交流"
+       ],
+       [
+        "terrace",
+        "テラス"
+       ],
+       [
+        "watch",
+        "眺め",
+        "見"
+       ],
+       [
+        "espresso",
+        "エスプレッソ"
+       ]
+      ],
+      "model": "Paris cafés are places to meet people and share ideas. People sit on terraces facing the street, and \"un café\" means a small espresso."
+     }
+    }
+   ],
+   "news": {
+    "headline": "French Bakeries Struggle with Rising Butter Prices",
+    "script": "French bakeries are facing a difficult year. The price of butter has risen by almost thirty percent, and many bakers say they cannot keep their croissants cheap. A baker in Lyon told reporters that she now pays twice as much as two years ago. Some shops have started making smaller croissants, while others have raised prices. Customers say they will still buy them, but less often.",
+    "summaryJa": "フランスのパン屋がバター価格の高騰（約30％上昇）に苦しんでいる。リヨンのパン職人は2年前の2倍を払っていると話す。クロワッサンを小さくする店や値上げする店も。客は買う頻度を減らすと話している。",
+    "summaryEn": "Butter prices in France have risen by almost 30 percent. Some bakeries are making smaller croissants or raising prices, and customers will buy them less often.",
+    "questions": [
+     {
+      "q": "How much has the price of butter risen?",
+      "choices": [
+       "About 3 percent",
+       "Almost 30 percent",
+       "100 percent",
+       "It went down"
+      ],
+      "answer": 1,
+      "hint": "“thirty” と “thirteen” の聞き分けに注意。",
+      "explain": "“risen by almost thirty percent” = 約30％上昇。"
+     },
+     {
+      "q": "Where is the baker who talked to reporters?",
+      "choices": [
+       "Paris",
+       "Lyon",
+       "Nice",
+       "Marseille"
+      ],
+      "answer": 1,
+      "hint": "“A baker in …” の地名を聴こう。",
+      "explain": "“A baker in Lyon told reporters …” とあります。"
+     },
+     {
+      "q": "What have some shops started doing?",
+      "choices": [
+       "Closing on weekends",
+       "Making smaller croissants",
+       "Selling only bread",
+       "Importing butter from Japan"
+      ],
+      "answer": 1,
+      "hint": "“Some shops have started …”",
+      "explain": "一部の店はクロワッサンを小さくし始めました。"
+     }
+    ]
+   },
+   "tour_order": 2
+  },
+  {
+   "id": "italy",
+   "name": "イタリア",
+   "nameEn": "Italy",
+   "code": "IT",
+   "region": "europe",
+   "lat": 42.8,
+   "lng": 12.6,
+   "color": "#2f7d5b",
+   "wikiJa": "イタリア",
+   "capital": "ローマ",
+   "language": "イタリア語",
+   "currency": "ユーロ",
+   "phrase": {
+    "local": "Grazie!",
+    "ja": "ありがとう"
+   },
+   "desc": "ローマのコロッセオや水の都ヴェネツィアなど、古代からの街並みが残る国。ナポリはピッツァ発祥の地として知られています。",
+   "trips": [
+    {
+     "id": "colosseum",
+     "name": "コロッセオ",
+     "nameEn": "Colosseum",
+     "wiki": "Colosseum",
+     "category": "sight",
+     "city": "ローマ",
+     "tip": "人気が高く当日券は並ぶことが多いので事前予約を。隣のフォロ・ロマーノも一緒に回るのがおすすめ。",
+     "desc": "約5万人を収容した古代ローマ最大の円形闘技場。",
+     "level": "B1",
+     "minutes": 5,
+     "article": {
+      "title": "Inside the Colosseum",
+      "paragraphs": [
+       "The Colosseum in Rome is the largest amphitheater ever built in the Roman Empire. It was completed in the year 80 and could hold about 50,000 people.",
+       "Ancient Romans came here to watch gladiators fight and to see shows with wild animals. Under the floor, there were tunnels and rooms where animals and fighters waited.",
+       "Earthquakes and stone robbers damaged the building over the centuries, but it is still one of the most visited places in the world."
+      ]
+     },
+     "questions": [
+      {
+       "q": "About how many people could the Colosseum hold?",
+       "choices": [
+        "5,000",
+        "50,000",
+        "500,000",
+        "80"
+       ],
+       "answer": 1,
+       "hint": "“could hold about …”",
+       "explain": "約5万人（50,000）を収容できました。"
+      },
+      {
+       "q": "What was under the floor?",
+       "choices": [
+        "A river",
+        "Tunnels and rooms",
+        "A library",
+        "Nothing"
+       ],
+       "answer": 1,
+       "hint": "“Under the floor, there were …”",
+       "explain": "床下には動物や剣闘士が待機するトンネルと部屋がありました。"
+      },
+      {
+       "q": "What damaged the building?",
+       "choices": [
+        "Floods and fire only",
+        "Earthquakes and stone robbers",
+        "Modern tourists",
+        "A war in 2000"
+       ],
+       "answer": 1,
+       "hint": "最後の段落の主語は？",
+       "explain": "地震と石泥棒によって何世紀もかけて損傷しました。"
+      }
+     ],
+     "summary": {
+      "keywords": [
+       [
+        "Rome",
+        "ローマ"
+       ],
+       [
+        "50,000",
+        "5万"
+       ],
+       [
+        "gladiator",
+        "剣闘士"
+       ],
+       [
+        "amphitheater",
+        "闘技場"
+       ],
+       [
+        "earthquake",
+        "地震"
+       ]
+      ],
+      "model": "The Colosseum in Rome could hold about 50,000 people who watched gladiators fight. It was damaged over time but is still very popular."
+     }
+    },
+    {
+     "id": "venice",
+     "name": "ヴェネツィア",
+     "nameEn": "Venice",
+     "wiki": "Venice",
+     "category": "sight",
+     "city": "ヴェネツィア",
+     "tip": "移動は水上バス（ヴァポレット）が便利。混雑日は日帰り客に入場料がかかる場合があるので、旅行前に確認を。",
+     "desc": "運河とゴンドラの水の都。高潮との戦いも。",
+     "level": "B1",
+     "minutes": 5,
+     "article": {
+      "title": "Venice: A City on the Water",
+      "paragraphs": [
+       "Venice is a city in northern Italy built on more than 100 small islands in a lagoon. Instead of roads, it has canals, and people travel by boat.",
+       "The most famous boats are gondolas, long black boats moved by a gondolier with a single oar. Today, most gondolas carry tourists rather than local people.",
+       "Venice faces a serious problem: flooding. During high tides, called \"acqua alta,\" water covers the streets. The city built a system of moving barriers to protect itself from the sea."
+      ]
+     },
+     "questions": [
+      {
+       "q": "What does Venice have instead of roads?",
+       "choices": [
+        "Railways",
+        "Canals",
+        "Only bridges",
+        "Tunnels"
+       ],
+       "answer": 1,
+       "hint": "“Instead of roads, it has …”",
+       "explain": "道路の代わりに運河（canals）があり、人々は船で移動します。"
+      },
+      {
+       "q": "Who mainly uses gondolas today?",
+       "choices": [
+        "Local workers",
+        "Tourists",
+        "Police officers",
+        "Students"
+       ],
+       "answer": 1,
+       "hint": "“rather than” は「〜よりむしろ」。",
+       "explain": "今日のゴンドラの多くは地元の人より観光客を乗せています。"
+      },
+      {
+       "q": "What is \"acqua alta\"?",
+       "choices": [
+        "A famous dish",
+        "High tides that flood the streets",
+        "A type of boat",
+        "A festival"
+       ],
+       "answer": 1,
+       "hint": "“called …” の前の部分を読もう。",
+       "explain": "“acqua alta” は街に水があふれる高潮のことです。"
+      }
+     ],
+     "summary": {
+      "keywords": [
+       [
+        "island",
+        "島"
+       ],
+       [
+        "canal",
+        "運河"
+       ],
+       [
+        "gondola",
+        "ゴンドラ"
+       ],
+       [
+        "flood",
+        "洪水",
+        "浸水",
+        "冠水",
+        "高潮"
+       ],
+       [
+        "barrier",
+        "防潮",
+        "バリア",
+        "防壁"
+       ]
+      ],
+      "model": "Venice is built on islands and has canals instead of roads. It suffers from flooding, so the city built moving barriers."
+     }
+    },
+    {
+     "id": "pizza",
+     "name": "ナポリのピッツァ",
+     "nameEn": "Neapolitan Pizza",
+     "wiki": "Neapolitan_pizza",
+     "category": "culture",
+     "city": "ナポリ",
+     "tip": "人気店は行列ができることも多い。ピッツァは1人1枚が基本で、ナイフとフォークで食べてもOK。",
+     "desc": "ピザ発祥の地ナポリの、ユネスコ無形文化遺産の技。",
+     "level": "B1",
+     "minutes": 5,
+     "article": {
+      "title": "Naples: The Home of Pizza",
+      "paragraphs": [
+       "Naples, a city in southern Italy, is known as the home of pizza. A true Neapolitan pizza has a soft, thin center and a puffy edge called the \"cornicione.\" It is baked in a very hot wood-fired oven for only about 60 to 90 seconds.",
+       "One of the most famous types is the Margherita. Its toppings, tomato, mozzarella, and basil, have the same colors as the Italian flag: red, white, and green.",
+       "In 2017, UNESCO added the art of Neapolitan pizza making to its list of Intangible Cultural Heritage."
+      ]
+     },
+     "questions": [
+      {
+       "q": "How long is a Neapolitan pizza baked?",
+       "choices": [
+        "About 60 to 90 seconds",
+        "About 10 minutes",
+        "About one hour",
+        "All night"
+       ],
+       "answer": 0,
+       "hint": "“for only about …”",
+       "explain": "とても熱い薪窯で、わずか60〜90秒ほどで焼き上げます。"
+      },
+      {
+       "q": "Why are the Margherita's toppings special?",
+       "choices": [
+        "They are very expensive",
+        "They match the colors of the Italian flag",
+        "They come from Japan",
+        "They are all sweet"
+       ],
+       "answer": 1,
+       "hint": "“the same colors as …”",
+       "explain": "トマト・モッツァレラ・バジルがイタリア国旗の赤・白・緑と同じ色です。"
+      },
+      {
+       "q": "What happened in 2017?",
+       "choices": [
+        "Pizza was invented",
+        "UNESCO recognized Neapolitan pizza making",
+        "Naples closed its pizzerias",
+        "The Margherita got a new name"
+       ],
+       "answer": 1,
+       "hint": "最後の段落の年号。",
+       "explain": "ナポリのピッツァ職人の技がユネスコ無形文化遺産に登録されました。"
+      }
+     ],
+     "summary": {
+      "keywords": [
+       [
+        "Naples",
+        "ナポリ"
+       ],
+       [
+        "oven",
+        "窯",
+        "オーブン"
+       ],
+       [
+        "Margherita",
+        "マルゲリータ"
+       ],
+       [
+        "flag",
+        "国旗"
+       ],
+       [
+        "UNESCO",
+        "ユネスコ",
+        "無形文化遺産"
+       ]
+      ],
+      "model": "Naples is the home of pizza, which is baked quickly in a very hot oven. The Margherita has the colors of the Italian flag, and UNESCO recognized the art of making it."
+     }
+    }
+   ],
+   "news": {
+    "headline": "Rome Opens Ancient Sites for Night Tours",
+    "script": "Rome is opening some of its ancient sites at night this summer. Visitors can now walk through parts of the Colosseum after dark with a guide. The tours start at eight in the evening and last about ninety minutes. Officials hope the night tours will reduce crowds during the hot afternoon. Tickets are limited, so travelers are advised to book online at least two weeks in advance.",
+    "summaryJa": "ローマが夏の間、古代遺跡を夜間公開。コロッセオの一部をガイド付きで見学できる。ツアーは午後8時から約90分。暑い午後の混雑緩和が狙い。チケットは限定数のため2週間前までのオンライン予約が推奨されている。",
+    "summaryEn": "Rome is offering guided night tours of the Colosseum this summer to reduce afternoon crowds. Tickets are limited, so book two weeks ahead.",
+    "questions": [
+     {
+      "q": "When do the night tours start?",
+      "choices": [
+       "6 p.m.",
+       "8 p.m.",
+       "10 p.m.",
+       "Midnight"
+      ],
+      "answer": 1,
+      "hint": "“The tours start at …”",
+      "explain": "ツアーは午後8時（eight p.m.）に始まります。"
+     },
+     {
+      "q": "Why are officials starting night tours?",
+      "choices": [
+       "To build a new stadium",
+       "To reduce crowds in the hot afternoon",
+       "Because the site is closed during the day",
+       "For a movie"
+      ],
+      "answer": 1,
+      "hint": "“Officials hope …”",
+      "explain": "暑い午後の混雑を減らすためです。"
+     },
+     {
+      "q": "What are travelers advised to do?",
+      "choices": [
+       "Arrive early",
+       "Book online at least two weeks in advance",
+       "Bring a flashlight",
+       "Come in winter"
+      ],
+      "answer": 1,
+      "hint": "“advised to …” は「〜するよう勧められる」。",
+      "explain": "少なくとも2週間前にオンライン予約するよう勧められています。"
+     }
+    ]
+   },
+   "tour_order": 3
+  },
+  {
+   "id": "egypt",
+   "name": "エジプト",
+   "nameEn": "Egypt",
+   "code": "EG",
+   "region": "africa",
+   "lat": 26.8,
+   "lng": 30.8,
+   "color": "#b07a2a",
+   "wikiJa": "エジプト",
+   "capital": "カイロ",
+   "language": "アラビア語",
+   "currency": "エジプト・ポンド",
+   "phrase": {
+    "local": "Shukran!",
+    "ja": "ありがとう（アラビア語）"
+   },
+   "desc": "ギザのピラミッドやナイル川沿いの神殿で知られる国。首都カイロでは、屋台料理のコシャリが定番です。",
+   "trips": [
+    {
+     "id": "pyramid",
+     "name": "ギザの大ピラミッド",
+     "nameEn": "Great Pyramid of Giza",
+     "wiki": "Great_Pyramid_of_Giza",
+     "category": "sight",
+     "city": "ギザ（カイロ近郊）",
+     "tip": "日差しが強いので帽子・水・日焼け止めは必須。朝早めの時間帯が比較的すいている。",
+     "desc": "古代世界の七不思議で唯一現存する巨大建造物。",
+     "level": "A2",
+     "minutes": 4,
+     "article": {
+      "title": "The Great Pyramid of Giza",
+      "paragraphs": [
+       "The Great Pyramid of Giza is the oldest of the Seven Wonders of the Ancient World and the only one that still stands. It was built about 4,500 years ago as a tomb for the pharaoh Khufu.",
+       "It is made of more than two million stone blocks. For almost 4,000 years, it was the tallest human-made structure on Earth.",
+       "Near the pyramids is the Great Sphinx, a giant statue with the body of a lion and the head of a human."
+      ]
+     },
+     "questions": [
+      {
+       "q": "Why was the Great Pyramid built?",
+       "choices": [
+        "As a tomb for a pharaoh",
+        "As a market",
+        "As a school",
+        "As a lighthouse"
+       ],
+       "answer": 0,
+       "hint": "“built … as a …” の “as” は「〜として」。",
+       "explain": "ファラオ（クフ王）の墓（tomb）として建てられました。"
+      },
+      {
+       "q": "How long was it the tallest human-made structure?",
+       "choices": [
+        "About 40 years",
+        "About 400 years",
+        "Almost 4,000 years",
+        "It never was"
+       ],
+       "answer": 2,
+       "hint": "第2段落の “For almost …”",
+       "explain": "約4000年もの間、人類が造った最も高い建造物でした。"
+      },
+      {
+       "q": "What does the Great Sphinx look like?",
+       "choices": [
+        "A lion's head and a human body",
+        "A lion's body and a human head",
+        "A bird with wings",
+        "A pharaoh on a horse"
+       ],
+       "answer": 1,
+       "hint": "“the body of …” と “the head of …” の順番に注意。",
+       "explain": "ライオンの体に人間の頭を持つ巨大な像です。"
+      }
+     ],
+     "summary": {
+      "keywords": [
+       [
+        "tomb",
+        "墓"
+       ],
+       [
+        "pharaoh",
+        "ファラオ",
+        "王"
+       ],
+       [
+        "4,500",
+        "4500"
+       ],
+       [
+        "Sphinx",
+        "スフィンクス"
+       ],
+       [
+        "Wonder",
+        "不思議"
+       ]
+      ],
+      "model": "The Great Pyramid was built about 4,500 years ago as a tomb for a pharaoh. It is the only Wonder of the Ancient World that still stands."
+     }
+    },
+    {
+     "id": "abusimbel",
+     "name": "アブ・シンベル神殿",
+     "nameEn": "Abu Simbel",
+     "wiki": "Abu_Simbel",
+     "category": "sight",
+     "city": "アスワン近郊",
+     "tip": "アスワンから車や飛行機でアクセス。年に2回、朝日が神殿の奥まで差し込む日があり、多くの人が訪れる。",
+     "desc": "ダム建設から救うため丸ごと移設された岩窟神殿。",
+     "level": "B2",
+     "minutes": 6,
+     "article": {
+      "title": "Abu Simbel: The Temple That Moved",
+      "paragraphs": [
+       "Abu Simbel is a pair of huge rock temples in southern Egypt. They were carved into a mountain more than 3,000 years ago by order of the pharaoh Ramesses II.",
+       "Four giant statues of the king, each about 20 meters tall, sit at the entrance of the main temple.",
+       "In the 1960s, the temples were in danger because a new dam would flood the area. An international team cut the temples into large blocks and moved them to higher ground. It was one of the greatest rescue projects in history."
+      ]
+     },
+     "questions": [
+      {
+       "q": "Who ordered the temples to be built?",
+       "choices": [
+        "Khufu",
+        "Ramesses II",
+        "Cleopatra",
+        "Alexander the Great"
+       ],
+       "answer": 1,
+       "hint": "“by order of …”",
+       "explain": "ファラオ、ラムセス2世の命令で造られました。"
+      },
+      {
+       "q": "What sits at the entrance of the main temple?",
+       "choices": [
+        "Two lions",
+        "Four giant statues of the king",
+        "A large gold gate",
+        "A river"
+       ],
+       "answer": 1,
+       "hint": "第2段落を読もう。",
+       "explain": "高さ約20mの王の巨像4体が入口に座っています。"
+      },
+      {
+       "q": "Why were the temples moved?",
+       "choices": [
+        "A new dam would flood the area",
+        "An earthquake",
+        "Tourists asked for it",
+        "The rock was too soft"
+       ],
+       "answer": 0,
+       "hint": "“in danger because …”",
+       "explain": "新しいダムで水没する恐れがあったため移設されました。"
+      }
+     ],
+     "summary": {
+      "keywords": [
+       [
+        "temple",
+        "神殿"
+       ],
+       [
+        "Ramesses",
+        "ラムセス"
+       ],
+       [
+        "statue",
+        "像"
+       ],
+       [
+        "dam",
+        "ダム"
+       ],
+       [
+        "moved",
+        "移設",
+        "移築",
+        "移動"
+       ]
+      ],
+      "model": "Abu Simbel's temples were built by Ramesses II. In the 1960s they were cut into blocks and moved to save them from a new dam."
+     }
+    },
+    {
+     "id": "koshary",
+     "name": "コシャリ",
+     "nameEn": "Koshary",
+     "wiki": "Koshary",
+     "category": "culture",
+     "city": "カイロ",
+     "tip": "コシャリ専門店は地元の人でにぎわう。量が多いので小さいサイズから試すのがおすすめ。辛いソースはお好みで。",
+     "desc": "米・パスタ・豆を混ぜたエジプトの国民食。",
+     "level": "A2",
+     "minutes": 4,
+     "article": {
+      "title": "Koshary: Egypt's Favorite Street Food",
+      "paragraphs": [
+       "Koshary is one of Egypt's most popular street foods. It is a mix of rice, pasta, and lentils, topped with chickpeas, tomato sauce, and crispy fried onions.",
+       "Koshary is cheap, filling, and does not contain meat, so people of all ages and backgrounds enjoy it. In Cairo, there are restaurants that serve only koshary, and they are often full of local people at lunchtime.",
+       "Many people add a spicy sauce or a garlic and vinegar sauce to make the taste stronger."
+      ]
+     },
+     "questions": [
+      {
+       "q": "What is koshary mainly made of?",
+       "choices": [
+        "Rice, pasta, and lentils",
+        "Fish and potatoes",
+        "Beef and bread",
+        "Only fruit"
+       ],
+       "answer": 0,
+       "hint": "“It is a mix of …”",
+       "explain": "米・パスタ・レンズ豆を混ぜた料理です。"
+      },
+      {
+       "q": "Why do people of all ages enjoy it?",
+       "choices": [
+        "It is cheap, filling, and has no meat",
+        "It is very sweet",
+        "It is only sold at night",
+        "It is served in hotels"
+       ],
+       "answer": 0,
+       "hint": "“so people of all ages …” の前に理由。",
+       "explain": "安くてお腹いっぱいになり、肉を使っていないため誰でも食べやすいからです。"
+      },
+      {
+       "q": "What do many people add to make the taste stronger?",
+       "choices": [
+        "Sugar",
+        "A spicy sauce or a garlic and vinegar sauce",
+        "Milk",
+        "Chocolate"
+       ],
+       "answer": 1,
+       "hint": "最後の文を読もう。",
+       "explain": "辛いソースや、にんにくと酢のソースを加えます。"
+      }
+     ],
+     "summary": {
+      "keywords": [
+       [
+        "street food",
+        "屋台",
+        "ストリート",
+        "国民食"
+       ],
+       [
+        "rice",
+        "米",
+        "ご飯"
+       ],
+       [
+        "lentil",
+        "レンズ豆",
+        "豆"
+       ],
+       [
+        "cheap",
+        "安"
+       ],
+       [
+        "Cairo",
+        "カイロ"
+       ]
+      ],
+      "model": "Koshary is a cheap and popular Egyptian street food made of rice, pasta, and lentils with tomato sauce and fried onions."
+     }
+    }
+   ],
+   "news": {
+    "headline": "New Museum Near the Pyramids Draws Crowds",
+    "script": "A huge new museum near the pyramids of Giza is attracting visitors from around the world. Its most popular area shows thousands of treasures from the tomb of King Tutankhamun, displayed together for the first time. The museum also has a giant staircase lined with ancient statues. Tour companies say hotel bookings in Cairo have increased sharply since the opening.",
+    "summaryJa": "ギザのピラミッド近くの巨大な新博物館に世界中から観光客が訪れている。一番人気はツタンカーメン王の墓の財宝数千点を初めてまとめて展示するエリア。古代の像が並ぶ大階段も。開館以来カイロのホテル予約が急増している。",
+    "summaryEn": "A huge new museum near the pyramids shows Tutankhamun's treasures together for the first time. Hotel bookings in Cairo have risen sharply.",
+    "questions": [
+     {
+      "q": "Where is the new museum?",
+      "choices": [
+       "Near the pyramids of Giza",
+       "In Alexandria",
+       "In London",
+       "On a Nile river boat"
+      ],
+      "answer": 0,
+      "hint": "最初の文を聴こう。",
+      "explain": "“near the pyramids of Giza” にあります。"
+     },
+     {
+      "q": "What is the most popular area?",
+      "choices": [
+       "A food court",
+       "Treasures from Tutankhamun's tomb",
+       "A modern art gallery",
+       "A science lab"
+      ],
+      "answer": 1,
+      "hint": "“Its most popular area shows …”",
+      "explain": "ツタンカーメン王の墓の財宝の展示エリアです。"
+     },
+     {
+      "q": "What has increased since the opening?",
+      "choices": [
+       "Hotel bookings in Cairo",
+       "Taxi prices",
+       "Rainfall",
+       "Ticket prices in Giza"
+      ],
+      "answer": 0,
+      "hint": "“have increased sharply” の主語は？",
+      "explain": "カイロのホテル予約が急増しました。"
+     }
+    ]
+   },
+   "tour_order": 4
+  },
+  {
+   "id": "australia",
+   "name": "オーストラリア",
+   "nameEn": "Australia",
+   "code": "AU",
+   "region": "oceania",
+   "lat": -25.3,
+   "lng": 134,
+   "color": "#c0573a",
+   "wikiJa": "オーストラリア",
+   "capital": "キャンベラ",
+   "language": "英語",
+   "currency": "オーストラリア・ドル",
+   "phrase": {
+    "local": "G'day!",
+    "ja": "やあ、こんにちは（オーストラリア英語）"
+   },
+   "desc": "シドニーのオペラハウスや、世界最大のサンゴ礁がある国。英語が主な言語で、独特の言い回しもあります。",
+   "trips": [
+    {
+     "id": "opera",
+     "name": "シドニー・オペラハウス",
+     "nameEn": "Sydney Opera House",
+     "wiki": "Sydney_Opera_House",
+     "category": "sight",
+     "city": "シドニー",
+     "tip": "建物の内部を見学できるガイドツアーがある。対岸からはハーバーブリッジと一緒に撮影できる。",
+     "desc": "帆のような屋根が特徴の20世紀を代表する建築。",
+     "level": "B1",
+     "minutes": 5,
+     "article": {
+      "title": "Sails on the Harbour",
+      "paragraphs": [
+       "The Sydney Opera House is one of the most famous buildings of the 20th century. Its roof looks like white sails on Sydney Harbour.",
+       "The Danish architect Jørn Utzon won an international design competition in 1957. However, construction was difficult and expensive, and it took until 1973 to finish.",
+       "Today, the building hosts more than 1,500 performances a year, from opera and ballet to rock concerts. In 2007, it became a UNESCO World Heritage Site."
+      ]
+     },
+     "questions": [
+      {
+       "q": "What does the roof look like?",
+       "choices": [
+        "Mountains",
+        "White sails",
+        "Waves of water",
+        "Flowers"
+       ],
+       "answer": 1,
+       "hint": "“looks like …” は「〜のように見える」。",
+       "explain": "屋根は港に浮かぶ白い帆のように見えます。"
+      },
+      {
+       "q": "Where was the architect from?",
+       "choices": [
+        "Australia",
+        "Denmark",
+        "Britain",
+        "America"
+       ],
+       "answer": 1,
+       "hint": "“Danish” はどこの国の形容詞？",
+       "explain": "“Danish” = デンマークの。建築家ウッツォンはデンマーク出身です。"
+      },
+      {
+       "q": "When did it become a World Heritage Site?",
+       "choices": [
+        "1957",
+        "1973",
+        "2007",
+        "2017"
+       ],
+       "answer": 2,
+       "hint": "最後の文の年号。",
+       "explain": "2007年にユネスコ世界遺産に登録されました。"
+      }
+     ],
+     "summary": {
+      "keywords": [
+       [
+        "sail",
+        "帆"
+       ],
+       [
+        "Utzon",
+        "ウッツォン",
+        "ウツソン"
+       ],
+       [
+        "1973"
+       ],
+       [
+        "performance",
+        "公演"
+       ],
+       [
+        "World Heritage",
+        "世界遺産"
+       ]
+      ],
+      "model": "The Sydney Opera House has a roof like white sails. It was finished in 1973, hosts many performances, and is a World Heritage Site."
+     }
+    },
+    {
+     "id": "reef",
+     "name": "グレート・バリア・リーフ",
+     "nameEn": "Great Barrier Reef",
+     "wiki": "Great_Barrier_Reef",
+     "category": "sight",
+     "city": "クイーンズランド州",
+     "tip": "ケアンズなどからボートツアーで行ける。サンゴを傷つけないよう、触らない・サンゴに優しい日焼け止めを使うのがマナー。",
+     "desc": "宇宙からも見える世界最大のサンゴ礁。",
+     "level": "B1",
+     "minutes": 5,
+     "article": {
+      "title": "The Great Barrier Reef in Danger",
+      "paragraphs": [
+       "The Great Barrier Reef, off the coast of Queensland, is the largest coral reef system in the world. It is so big that it can be seen from space.",
+       "The reef is home to thousands of kinds of fish, as well as turtles, dolphins, and sharks. Coral is actually made of tiny living animals.",
+       "However, the reef is in danger. When the ocean becomes too warm, coral turns white and can die. This is called coral bleaching. Scientists and tourists are working together to protect it."
+      ]
+     },
+     "questions": [
+      {
+       "q": "What is special about the size of the reef?",
+       "choices": [
+        "It is the smallest reef",
+        "It can be seen from space",
+        "It fits in one bay",
+        "It is underground"
+       ],
+       "answer": 1,
+       "hint": "“so big that …” は「とても大きいので…」。",
+       "explain": "宇宙からも見えるほど大きいサンゴ礁です。"
+      },
+      {
+       "q": "What is coral made of?",
+       "choices": [
+        "Rocks",
+        "Tiny living animals",
+        "Only plants",
+        "Sand"
+       ],
+       "answer": 1,
+       "hint": "“actually made of …”",
+       "explain": "サンゴは実は小さな生き物（動物）でできています。"
+      },
+      {
+       "q": "What causes coral bleaching?",
+       "choices": [
+        "Ocean water that is too warm",
+        "Too many fish",
+        "Cold winters",
+        "Heavy rain"
+       ],
+       "answer": 0,
+       "hint": "“When the ocean becomes …”",
+       "explain": "海水温が高くなりすぎるとサンゴが白くなる（白化）。"
+      }
+     ],
+     "summary": {
+      "keywords": [
+       [
+        "coral",
+        "サンゴ",
+        "珊瑚"
+       ],
+       [
+        "largest",
+        "最大"
+       ],
+       [
+        "warm",
+        "温暖",
+        "水温",
+        "暖"
+       ],
+       [
+        "bleach",
+        "白化"
+       ],
+       [
+        "protect",
+        "守",
+        "保護"
+       ]
+      ],
+      "model": "The Great Barrier Reef is the world's largest coral reef. Warm oceans cause coral bleaching, so people are working to protect it."
+     }
+    },
+    {
+     "id": "beach",
+     "name": "ビーチ文化",
+     "nameEn": "Beach Culture",
+     "wiki": "Bondi_Beach",
+     "category": "culture",
+     "city": "シドニー",
+     "tip": "泳ぐときは必ず赤と黄色の旗の間で。日差しがとても強いので、日焼け止めとラッシュガードを忘れずに。",
+     "desc": "ボンダイビーチに見る、オーストラリアの海との暮らし。",
+     "level": "B1",
+     "minutes": 5,
+     "article": {
+      "title": "Life at the Beach in Australia",
+      "paragraphs": [
+       "For many Australians, the beach is a big part of everyday life. Bondi Beach in Sydney is one of the most famous, and people go there to swim, surf, or walk along the coast before work.",
+       "The ocean can be dangerous because of strong currents called rips. That is why volunteer lifesavers watch many beaches. Australia's first surf lifesaving clubs started in the early 1900s.",
+       "Visitors should always swim between the red and yellow flags. These flags show the safest area, where lifesavers are watching."
+      ]
+     },
+     "questions": [
+      {
+       "q": "What do people do at Bondi Beach before work?",
+       "choices": [
+        "Swim, surf, or walk",
+        "Go shopping",
+        "Sleep",
+        "Study at school"
+       ],
+       "answer": 0,
+       "hint": "第1段落の “before work” を探そう。",
+       "explain": "出勤前に泳いだり、サーフィンをしたり、海岸沿いを歩いたりします。"
+      },
+      {
+       "q": "What are \"rips\"?",
+       "choices": [
+        "Big fish",
+        "Strong currents",
+        "Sand castles",
+        "Surfboards"
+       ],
+       "answer": 1,
+       "hint": "“strong currents called rips”",
+       "explain": "rips は強い離岸流のことです。"
+      },
+      {
+       "q": "Where should visitors swim?",
+       "choices": [
+        "Anywhere they like",
+        "Between the red and yellow flags",
+        "Far from the beach",
+        "Only in the evening"
+       ],
+       "answer": 1,
+       "hint": "最後の段落の1文目。",
+       "explain": "ライフセーバーが見ている、赤と黄色の旗の間で泳ぐのが決まりです。"
+      }
+     ],
+     "summary": {
+      "keywords": [
+       [
+        "beach",
+        "ビーチ",
+        "海"
+       ],
+       [
+        "Bondi",
+        "ボンダイ"
+       ],
+       [
+        "rip",
+        "離岸流",
+        "流れ"
+       ],
+       [
+        "lifesaver",
+        "ライフセーバー"
+       ],
+       [
+        "flag",
+        "旗"
+       ]
+      ],
+      "model": "The beach is part of daily life in Australia. Because of dangerous rips, lifesavers watch the beaches, and visitors should swim between the red and yellow flags."
+     }
+    }
+   ],
+   "news": {
+    "headline": "Young Coral Recovering Faster Than Expected",
+    "script": "Scientists in Queensland have shared some good news about the Great Barrier Reef. In several areas, young coral is growing faster than expected after last year's bleaching. Researchers say cooler water this season helped the coral recover. However, they warn that the reef is still at risk, and that reducing greenhouse gases is the only long-term solution.",
+    "summaryJa": "グレート・バリア・リーフで、昨年の白化の後、若いサンゴが予想以上の速さで成長している。今季の海水温が低かったことが回復を助けた。ただし研究者は、サンゴ礁は依然危機にあり、温室効果ガスの削減が唯一の長期的解決策だと警告している。",
+    "summaryEn": "Young coral on the Great Barrier Reef is recovering faster than expected thanks to cooler water, but scientists say cutting greenhouse gases is still necessary.",
+    "questions": [
+     {
+      "q": "What is growing faster than expected?",
+      "choices": [
+       "Seaweed",
+       "Young coral",
+       "Fish",
+       "Tourism"
+      ],
+      "answer": 1,
+      "hint": "“… is growing faster than expected”",
+      "explain": "若いサンゴ（young coral）が予想より速く成長しています。"
+     },
+     {
+      "q": "What helped the coral recover?",
+      "choices": [
+       "Cooler water",
+       "More tourists",
+       "New boats",
+       "Heavy rain"
+      ],
+      "answer": 0,
+      "hint": "“Researchers say … helped”",
+      "explain": "今季の海水温が低かったことが回復を助けました。"
+     },
+     {
+      "q": "What is the only long-term solution?",
+      "choices": [
+       "Building walls",
+       "Reducing greenhouse gases",
+       "Moving the coral",
+       "Closing beaches"
+      ],
+      "answer": 1,
+      "hint": "最後の “the only long-term solution”",
+      "explain": "温室効果ガスを減らすことが唯一の長期的解決策です。"
+     }
+    ]
+   },
+   "tour_order": 5
+  },
+  {
+   "id": "usa",
+   "name": "アメリカ",
+   "nameEn": "United States",
+   "code": "US",
+   "region": "americas",
+   "lat": 39.5,
+   "lng": -98.4,
+   "color": "#7a3b6e",
+   "wikiJa": "アメリカ合衆国",
+   "capital": "ワシントンD.C.",
+   "language": "英語",
+   "currency": "米ドル",
+   "phrase": {
+    "local": "How's it going?",
+    "ja": "調子どう？（カジュアルなあいさつ）"
+   },
+   "desc": "ニューヨークの自由の女神から西部のグランド・キャニオンまで、見どころが国中に点在しています。",
+   "trips": [
+    {
+     "id": "liberty",
+     "name": "自由の女神像",
+     "nameEn": "Statue of Liberty",
+     "wiki": "Statue_of_Liberty",
+     "category": "sight",
+     "city": "ニューヨーク",
+     "tip": "島へはフェリーで渡る。王冠部分に登るには事前予約が必要で、人数が限られている。",
+     "desc": "フランスから贈られた自由と希望の象徴。",
+     "level": "A2",
+     "minutes": 4,
+     "article": {
+      "title": "Lady Liberty: A Gift from France",
+      "paragraphs": [
+       "The Statue of Liberty stands on Liberty Island in New York Harbor. It was a gift from the people of France to the United States and was dedicated in 1886.",
+       "The statue holds a torch in her right hand and a tablet in her left hand. The tablet shows the date of American independence, July 4, 1776.",
+       "For millions of immigrants arriving by ship, the statue was the first thing they saw of America. It became a symbol of freedom and hope."
+      ]
+     },
+     "questions": [
+      {
+       "q": "Who gave the statue to the United States?",
+       "choices": [
+        "The British king",
+        "The people of France",
+        "The city of New York",
+        "Immigrants"
+       ],
+       "answer": 1,
+       "hint": "“a gift from …”",
+       "explain": "フランスの人々からアメリカへの贈り物です。"
+      },
+      {
+       "q": "What does the tablet show?",
+       "choices": [
+        "The name of the artist",
+        "The date of American independence",
+        "A map of New York",
+        "A poem"
+       ],
+       "answer": 1,
+       "hint": "第2段落の2文目。",
+       "explain": "銘板にはアメリカ独立の日付（1776年7月4日）が刻まれています。"
+      },
+      {
+       "q": "What did the statue mean for immigrants?",
+       "choices": [
+        "A place to work",
+        "A symbol of freedom and hope",
+        "A warning sign",
+        "A hotel"
+       ],
+       "answer": 1,
+       "hint": "最後の文 “It became a symbol of …”",
+       "explain": "移民にとって自由と希望の象徴となりました。"
+      }
+     ],
+     "summary": {
+      "keywords": [
+       [
+        "France",
+        "フランス"
+       ],
+       [
+        "gift",
+        "贈"
+       ],
+       [
+        "1886"
+       ],
+       [
+        "freedom",
+        "自由"
+       ],
+       [
+        "immigrant",
+        "移民"
+       ]
+      ],
+      "model": "The Statue of Liberty was a gift from France in 1886. For immigrants, it became a symbol of freedom and hope."
+     }
+    },
+    {
+     "id": "canyon",
+     "name": "グランド・キャニオン",
+     "nameEn": "Grand Canyon",
+     "wiki": "Grand_Canyon",
+     "category": "sight",
+     "city": "アリゾナ州",
+     "tip": "観光の中心は南側のサウスリム。標高が高く朝晩は冷えるので、夏でも羽織るものを持っていこう。",
+     "desc": "コロラド川が数百万年かけて刻んだ大峡谷。",
+     "level": "B1",
+     "minutes": 5,
+     "article": {
+      "title": "Reading the Earth's History at the Grand Canyon",
+      "paragraphs": [
+       "The Grand Canyon in Arizona is about 450 kilometers long and up to 1.8 kilometers deep. The Colorado River slowly carved it over millions of years.",
+       "The walls of the canyon show many layers of colorful rock. Each layer tells scientists about a different period in the Earth's history.",
+       "More than four million people visit the national park every year. Many enjoy watching the sunrise or sunset, when the rocks turn red, orange, and purple."
+      ]
+     },
+     "questions": [
+      {
+       "q": "What created the Grand Canyon?",
+       "choices": [
+        "A huge earthquake",
+        "The Colorado River",
+        "A volcano",
+        "People with machines"
+       ],
+       "answer": 1,
+       "hint": "“carved” は「彫った・削った」。",
+       "explain": "コロラド川が数百万年かけて削り出しました。"
+      },
+      {
+       "q": "What do the rock layers tell scientists about?",
+       "choices": [
+        "Tomorrow's weather",
+        "The Earth's history",
+        "Only the age of the river",
+        "Nothing"
+       ],
+       "answer": 1,
+       "hint": "“Each layer tells scientists about …”",
+       "explain": "それぞれの地層が地球の歴史の異なる時代を教えてくれます。"
+      },
+      {
+       "q": "When do the rocks turn red, orange, and purple?",
+       "choices": [
+        "At sunrise or sunset",
+        "Only in winter",
+        "When it rains",
+        "At midnight"
+       ],
+       "answer": 0,
+       "hint": "最後の文の “when …”",
+       "explain": "日の出や日の入りの時に岩が赤やオレンジ、紫に染まります。"
+      }
+     ],
+     "summary": {
+      "keywords": [
+       [
+        "Colorado",
+        "コロラド"
+       ],
+       [
+        "river",
+        "川"
+       ],
+       [
+        "layer",
+        "地層",
+        "層"
+       ],
+       [
+        "million",
+        "百万",
+        "万人"
+       ],
+       [
+        "history",
+        "歴史"
+       ]
+      ],
+      "model": "The Grand Canyon was carved by the Colorado River. Its rock layers show the Earth's history, and millions of people visit it every year."
+     }
+    },
+    {
+     "id": "thanksgiving",
+     "name": "感謝祭",
+     "nameEn": "Thanksgiving",
+     "wiki": "Thanksgiving_(United_States)",
+     "img": "en:Turkey_as_food",
+     "category": "culture",
+     "city": "アメリカ全土",
+     "tip": "11月第4木曜日の前後は帰省ラッシュで航空券が高くなりやすい。当日は休業するお店も多いので注意。",
+     "desc": "家族で七面鳥を囲む、アメリカ最大級の祝日。",
+     "level": "A2",
+     "minutes": 4,
+     "article": {
+      "title": "Thanksgiving: A Day for Family and Food",
+      "paragraphs": [
+       "Thanksgiving is one of the biggest holidays in the United States. It is celebrated on the fourth Thursday of November, and many people travel long distances to be with their families.",
+       "The main dish is usually a roast turkey. It is served with mashed potatoes, stuffing, and cranberry sauce, and pumpkin pie is a popular dessert.",
+       "On Thanksgiving morning, millions of people watch a famous parade in New York with giant balloons. In the afternoon, many families watch American football on TV."
+      ]
+     },
+     "questions": [
+      {
+       "q": "When is Thanksgiving celebrated?",
+       "choices": [
+        "On July 4",
+        "On the fourth Thursday of November",
+        "On the first Monday of December",
+        "On New Year's Day"
+       ],
+       "answer": 1,
+       "hint": "“It is celebrated on …”",
+       "explain": "11月の第4木曜日に祝われます。"
+      },
+      {
+       "q": "What is usually the main dish?",
+       "choices": [
+        "Roast turkey",
+        "Pizza",
+        "Sushi",
+        "Fried chicken"
+       ],
+       "answer": 0,
+       "hint": "“The main dish is …”",
+       "explain": "メインはローストした七面鳥です。"
+      },
+      {
+       "q": "What do many families watch in the afternoon?",
+       "choices": [
+        "A baseball game",
+        "American football",
+        "A movie at the theater",
+        "A cooking show"
+       ],
+       "answer": 1,
+       "hint": "最後の文 “In the afternoon, …”",
+       "explain": "午後はテレビでアメリカンフットボールを見る家族が多いです。"
+      }
+     ],
+     "summary": {
+      "keywords": [
+       [
+        "holiday",
+        "祝日",
+        "休日"
+       ],
+       [
+        "November",
+        "11月"
+       ],
+       [
+        "family",
+        "家族"
+       ],
+       [
+        "turkey",
+        "七面鳥",
+        "ターキー"
+       ],
+       [
+        "parade",
+        "パレード"
+       ]
+      ],
+      "model": "Thanksgiving is a big American holiday on the fourth Thursday of November. Families eat roast turkey together and watch a parade and football."
+     }
+    }
+   ],
+   "news": {
+    "headline": "National Parks Ask Visitors to Reserve Ahead",
+    "script": "Several popular national parks in the United States, including the Grand Canyon area, are asking visitors to make reservations during the busy summer season. Park officials say the system will protect nature and reduce traffic jams at the entrance. Visitors without a reservation can still enter early in the morning or late in the evening. The rules will be reviewed at the end of the year.",
+    "summaryJa": "グランド・キャニオン周辺を含むアメリカの人気国立公園が、夏の繁忙期に事前予約を求めている。自然保護と入口の渋滞緩和が目的。予約なしでも早朝や夕方以降は入園できる。ルールは年末に見直される予定。",
+    "summaryEn": "Popular U.S. national parks now ask for reservations in summer to protect nature and reduce traffic. Visitors without one can enter early or late.",
+    "questions": [
+     {
+      "q": "When do visitors need reservations?",
+      "choices": [
+       "All year",
+       "During the busy summer season",
+       "Only on weekends",
+       "In winter"
+      ],
+      "answer": 1,
+      "hint": "“during the busy … season”",
+      "explain": "夏の繁忙期に予約が必要です。"
+     },
+     {
+      "q": "Why are parks using the system?",
+      "choices": [
+       "To protect nature and reduce traffic jams",
+       "To sell more tickets",
+       "To close the parks",
+       "For security checks"
+      ],
+      "answer": 0,
+      "hint": "“the system will …”",
+      "explain": "自然を守り、入口の渋滞を減らすためです。"
+     },
+     {
+      "q": "What can visitors without a reservation do?",
+      "choices": [
+       "Nothing",
+       "Enter early in the morning or late in the evening",
+       "Pay double",
+       "Camp outside the park"
+      ],
+      "answer": 1,
+      "hint": "“Visitors without a reservation can still …”",
+      "explain": "早朝または夕方以降なら入園できます。"
+     }
+    ]
+   },
+   "tour_order": 6
+  }
+ ],
+ "glossary": {
+  "symbol": {
+   "pos": "名",
+   "meaning": "象徴、シンボル"
+  },
+  "built": {
+   "pos": "動",
+   "meaning": "build（建てる）の過去分詞"
+  },
+  "designed": {
+   "pos": "動",
+   "meaning": "設計された"
+  },
+  "engineer": {
+   "pos": "名",
+   "meaning": "技術者、エンジニア"
+  },
+  "criticized": {
+   "pos": "動",
+   "meaning": "批判した"
+  },
+  "iron": {
+   "pos": "名",
+   "meaning": "鉄"
+  },
+  "ugly": {
+   "pos": "形",
+   "meaning": "醜い"
+  },
+  "sparkles": {
+   "pos": "動",
+   "meaning": "きらめく"
+  },
+  "abbey": {
+   "pos": "名",
+   "meaning": "修道院"
+  },
+  "surrounds": {
+   "pos": "動",
+   "meaning": "囲む"
+  },
+  "tide": {
+   "pos": "名",
+   "meaning": "潮（の満ち引き）"
+  },
+  "tides": {
+   "pos": "名",
+   "meaning": "潮（tideの複数形）"
+  },
+  "pilgrims": {
+   "pos": "名",
+   "meaning": "巡礼者"
+  },
+  "mainland": {
+   "pos": "名",
+   "meaning": "本土"
+  },
+  "nickname": {
+   "pos": "名",
+   "meaning": "愛称、あだ名"
+  },
+  "official": {
+   "pos": "形",
+   "meaning": "公式の"
+  },
+  "completed": {
+   "pos": "動",
+   "meaning": "完成した"
+  },
+  "accurate": {
+   "pos": "形",
+   "meaning": "正確な"
+  },
+  "repair": {
+   "pos": "名",
+   "meaning": "修理、修復"
+  },
+  "original": {
+   "pos": "形",
+   "meaning": "元の、本来の"
+  },
+  "plain": {
+   "pos": "名",
+   "meaning": "平原"
+  },
+  "stages": {
+   "pos": "名",
+   "meaning": "段階"
+  },
+  "exactly": {
+   "pos": "副",
+   "meaning": "正確に"
+  },
+  "ceremonies": {
+   "pos": "名",
+   "meaning": "儀式"
+  },
+  "calendar": {
+   "pos": "名",
+   "meaning": "暦、カレンダー"
+  },
+  "amphitheater": {
+   "pos": "名",
+   "meaning": "円形闘技場"
+  },
+  "empire": {
+   "pos": "名",
+   "meaning": "帝国"
+  },
+  "ancient": {
+   "pos": "形",
+   "meaning": "古代の"
+  },
+  "gladiators": {
+   "pos": "名",
+   "meaning": "剣闘士"
+  },
+  "tunnels": {
+   "pos": "名",
+   "meaning": "トンネル"
+  },
+  "earthquakes": {
+   "pos": "名",
+   "meaning": "地震"
+  },
+  "robbers": {
+   "pos": "名",
+   "meaning": "泥棒"
+  },
+  "centuries": {
+   "pos": "名",
+   "meaning": "世紀（複数）、何百年"
+  },
+  "lagoon": {
+   "pos": "名",
+   "meaning": "潟（かた）、ラグーン"
+  },
+  "canals": {
+   "pos": "名",
+   "meaning": "運河"
+  },
+  "oar": {
+   "pos": "名",
+   "meaning": "オール、櫂"
+  },
+  "flooding": {
+   "pos": "名",
+   "meaning": "洪水、浸水"
+  },
+  "barriers": {
+   "pos": "名",
+   "meaning": "防壁、障壁"
+  },
+  "tomb": {
+   "pos": "名",
+   "meaning": "墓"
+  },
+  "pharaoh": {
+   "pos": "名",
+   "meaning": "ファラオ（古代エジプトの王）"
+  },
+  "structure": {
+   "pos": "名",
+   "meaning": "建造物、構造"
+  },
+  "statue": {
+   "pos": "名",
+   "meaning": "像"
+  },
+  "statues": {
+   "pos": "名",
+   "meaning": "像（複数）"
+  },
+  "temples": {
+   "pos": "名",
+   "meaning": "神殿、寺院"
+  },
+  "carved": {
+   "pos": "動",
+   "meaning": "彫った、削った"
+  },
+  "entrance": {
+   "pos": "名",
+   "meaning": "入口"
+  },
+  "dam": {
+   "pos": "名",
+   "meaning": "ダム"
+  },
+  "rescue": {
+   "pos": "名",
+   "meaning": "救出、救助"
+  },
+  "harbor": {
+   "pos": "名",
+   "meaning": "港"
+  },
+  "harbour": {
+   "pos": "名",
+   "meaning": "港（イギリス綴り）"
+  },
+  "dedicated": {
+   "pos": "動",
+   "meaning": "（記念碑などを）奉納した、除幕した"
+  },
+  "torch": {
+   "pos": "名",
+   "meaning": "たいまつ"
+  },
+  "tablet": {
+   "pos": "名",
+   "meaning": "銘板、石板"
+  },
+  "independence": {
+   "pos": "名",
+   "meaning": "独立"
+  },
+  "immigrants": {
+   "pos": "名",
+   "meaning": "移民"
+  },
+  "freedom": {
+   "pos": "名",
+   "meaning": "自由"
+  },
+  "canyon": {
+   "pos": "名",
+   "meaning": "峡谷"
+  },
+  "layers": {
+   "pos": "名",
+   "meaning": "層、地層"
+  },
+  "period": {
+   "pos": "名",
+   "meaning": "時代、期間"
+  },
+  "architect": {
+   "pos": "名",
+   "meaning": "建築家"
+  },
+  "competition": {
+   "pos": "名",
+   "meaning": "競技会、コンペ"
+  },
+  "construction": {
+   "pos": "名",
+   "meaning": "建設"
+  },
+  "performances": {
+   "pos": "名",
+   "meaning": "公演"
+  },
+  "heritage": {
+   "pos": "名",
+   "meaning": "遺産"
+  },
+  "coral": {
+   "pos": "名",
+   "meaning": "サンゴ"
+  },
+  "reef": {
+   "pos": "名",
+   "meaning": "礁（しょう）、リーフ"
+  },
+  "bleaching": {
+   "pos": "名",
+   "meaning": "白化"
+  },
+  "protect": {
+   "pos": "動",
+   "meaning": "守る、保護する"
+  },
+  "visitors": {
+   "pos": "名",
+   "meaning": "訪問者、観光客"
+  },
+  "famous": {
+   "pos": "形",
+   "meaning": "有名な"
+  },
+  "record": {
+   "pos": "名",
+   "meaning": "記録"
+  },
+  "doubled": {
+   "pos": "動",
+   "meaning": "2倍になった"
+  },
+  "officials": {
+   "pos": "名",
+   "meaning": "当局者、役人"
+  },
+  "complain": {
+   "pos": "動",
+   "meaning": "不満を言う"
+  },
+  "narrow": {
+   "pos": "形",
+   "meaning": "狭い"
+  },
+  "risen": {
+   "pos": "動",
+   "meaning": "rise（上がる）の過去分詞"
+  },
+  "reporters": {
+   "pos": "名",
+   "meaning": "記者"
+  },
+  "advised": {
+   "pos": "動",
+   "meaning": "勧められた、助言された"
+  },
+  "advance": {
+   "pos": "名",
+   "meaning": "in advance で「前もって」"
+  },
+  "treasures": {
+   "pos": "名",
+   "meaning": "財宝"
+  },
+  "recover": {
+   "pos": "動",
+   "meaning": "回復する"
+  },
+  "greenhouse": {
+   "pos": "名",
+   "meaning": "温室（greenhouse gases＝温室効果ガス）"
+  },
+  "reservations": {
+   "pos": "名",
+   "meaning": "予約"
+  },
+  "reviewed": {
+   "pos": "動",
+   "meaning": "見直された"
+  },
+  "crowds": {
+   "pos": "名",
+   "meaning": "人混み、群衆"
+  },
+  "sharply": {
+   "pos": "副",
+   "meaning": "急激に"
+  },
+  "attracting": {
+   "pos": "動",
+   "meaning": "引きつけている"
+  },
+  "struggle": {
+   "pos": "動",
+   "meaning": "苦労する"
+  },
+  "expected": {
+   "pos": "動",
+   "meaning": "予想された"
+  },
+  "solution": {
+   "pos": "名",
+   "meaning": "解決策"
+  },
+  "reservation": {
+   "pos": "名",
+   "meaning": "予約"
+  },
+  "elevators": {
+   "pos": "名",
+   "meaning": "エレベーター"
+  },
+  "coast": {
+   "pos": "名",
+   "meaning": "海岸"
+  },
+  "danger": {
+   "pos": "名",
+   "meaning": "危険"
+  },
+  "wonders": {
+   "pos": "名",
+   "meaning": "驚異、不思議"
+  },
+  "commuting": {
+   "pos": "名",
+   "meaning": "通勤"
+  },
+  "lanes": {
+   "pos": "名",
+   "meaning": "車線、レーン"
+  },
+  "traffic": {
+   "pos": "名",
+   "meaning": "交通（量）"
+  },
+  "limited": {
+   "pos": "形",
+   "meaning": "限られた"
+  },
+  "displayed": {
+   "pos": "動",
+   "meaning": "展示された"
+  },
+  "staircase": {
+   "pos": "名",
+   "meaning": "階段"
+  },
+  "warn": {
+   "pos": "動",
+   "meaning": "警告する"
+  },
+  "risk": {
+   "pos": "名",
+   "meaning": "危険、リスク"
+  },
+  "mystery": {
+   "pos": "名",
+   "meaning": "謎"
+  },
+  "icon": {
+   "pos": "名",
+   "meaning": "象徴的存在、アイコン"
+  },
+  "voice": {
+   "pos": "名",
+   "meaning": "声"
+  },
+  "gondolas": {
+   "pos": "名",
+   "meaning": "ゴンドラ（ヴェネツィアの舟）"
+  },
+  "tourists": {
+   "pos": "名",
+   "meaning": "観光客"
+  },
+  "serious": {
+   "pos": "形",
+   "meaning": "深刻な"
+  },
+  "arriving": {
+   "pos": "動",
+   "meaning": "到着する"
+  },
+  "hope": {
+   "pos": "名",
+   "meaning": "希望"
+  },
+  "scientists": {
+   "pos": "名",
+   "meaning": "科学者"
+  },
+  "sunrise": {
+   "pos": "名",
+   "meaning": "日の出"
+  },
+  "sunset": {
+   "pos": "名",
+   "meaning": "日の入り"
+  },
+  "international": {
+   "pos": "形",
+   "meaning": "国際的な"
+  },
+  "expensive": {
+   "pos": "形",
+   "meaning": "高価な"
+  },
+  "difficult": {
+   "pos": "形",
+   "meaning": "難しい"
+  },
+  "huge": {
+   "pos": "形",
+   "meaning": "巨大な"
+  },
+  "giant": {
+   "pos": "形",
+   "meaning": "巨大な"
+  },
+  "tiny": {
+   "pos": "形",
+   "meaning": "とても小さい"
+  },
+  "tradition": {
+   "pos": "名",
+   "meaning": "伝統、しきたり"
+  },
+  "duchess": {
+   "pos": "名",
+   "meaning": "公爵夫人"
+  },
+  "hungry": {
+   "pos": "形",
+   "meaning": "空腹の"
+  },
+  "served": {
+   "pos": "動",
+   "meaning": "（料理が）出される"
+  },
+  "scone": {
+   "pos": "名",
+   "meaning": "スコーン"
+  },
+  "argue": {
+   "pos": "動",
+   "meaning": "言い争う、議論する"
+  },
+  "snacks": {
+   "pos": "名",
+   "meaning": "軽食、おやつ"
+  },
+  "levels": {
+   "pos": "名",
+   "meaning": "段、階層"
+  },
+  "sidewalk": {
+   "pos": "名",
+   "meaning": "歩道"
+  },
+  "terrace": {
+   "pos": "名",
+   "meaning": "テラス席"
+  },
+  "facing": {
+   "pos": "動",
+   "meaning": "〜の方を向いている"
+  },
+  "writers": {
+   "pos": "名",
+   "meaning": "作家"
+  },
+  "espresso": {
+   "pos": "名",
+   "meaning": "エスプレッソ（濃いコーヒー）"
+  },
+  "share": {
+   "pos": "動",
+   "meaning": "共有する、分かち合う"
+  },
+  "puffy": {
+   "pos": "形",
+   "meaning": "ふっくらした"
+  },
+  "baked": {
+   "pos": "動",
+   "meaning": "（オーブンで）焼かれた"
+  },
+  "oven": {
+   "pos": "名",
+   "meaning": "オーブン、窯"
+  },
+  "toppings": {
+   "pos": "名",
+   "meaning": "（料理の上にのせる）具材"
+  },
+  "intangible": {
+   "pos": "形",
+   "meaning": "無形の、触れられない"
+  },
+  "cultural": {
+   "pos": "形",
+   "meaning": "文化の"
+  },
+  "basil": {
+   "pos": "名",
+   "meaning": "バジル"
+  },
+  "mozzarella": {
+   "pos": "名",
+   "meaning": "モッツァレラチーズ"
+  },
+  "lentil": {
+   "pos": "名",
+   "meaning": "レンズ豆"
+  },
+  "chickpeas": {
+   "pos": "名",
+   "meaning": "ひよこ豆"
+  },
+  "crispy": {
+   "pos": "形",
+   "meaning": "カリカリの"
+  },
+  "filling": {
+   "pos": "形",
+   "meaning": "お腹がいっぱいになる"
+  },
+  "contain": {
+   "pos": "動",
+   "meaning": "含む"
+  },
+  "backgrounds": {
+   "pos": "名",
+   "meaning": "背景、生い立ち"
+  },
+  "garlic": {
+   "pos": "名",
+   "meaning": "にんにく"
+  },
+  "vinegar": {
+   "pos": "名",
+   "meaning": "酢"
+  },
+  "spicy": {
+   "pos": "形",
+   "meaning": "辛い"
+  },
+  "currents": {
+   "pos": "名",
+   "meaning": "（水の）流れ、潮流"
+  },
+  "rips": {
+   "pos": "名",
+   "meaning": "離岸流（岸から沖へ向かう強い流れ）"
+  },
+  "volunteer": {
+   "pos": "形",
+   "meaning": "ボランティアの"
+  },
+  "lifesavers": {
+   "pos": "名",
+   "meaning": "ライフセーバー、監視員"
+  },
+  "lifesaving": {
+   "pos": "名",
+   "meaning": "人命救助"
+  },
+  "dangerous": {
+   "pos": "形",
+   "meaning": "危険な"
+  },
+  "everyday": {
+   "pos": "形",
+   "meaning": "日常の"
+  },
+  "holiday": {
+   "pos": "名",
+   "meaning": "祝日、休日"
+  },
+  "holidays": {
+   "pos": "名",
+   "meaning": "祝日（複数）"
+  },
+  "celebrated": {
+   "pos": "動",
+   "meaning": "祝われる"
+  },
+  "distances": {
+   "pos": "名",
+   "meaning": "距離"
+  },
+  "roast": {
+   "pos": "形",
+   "meaning": "ローストした、焼いた"
+  },
+  "stuffing": {
+   "pos": "名",
+   "meaning": "（七面鳥などの）詰め物"
+  },
+  "cranberry": {
+   "pos": "名",
+   "meaning": "クランベリー"
+  },
+  "dessert": {
+   "pos": "名",
+   "meaning": "デザート"
+  },
+  "balloons": {
+   "pos": "名",
+   "meaning": "風船、バルーン"
+  },
+  "popular": {
+   "pos": "形",
+   "meaning": "人気のある"
+  }
+ }
+}
